@@ -1,0 +1,3 @@
+com\example\plugin\GreetingPlugin.class
+META-INF\extensions.idx
+com\example\plugin\HelloGreeting.class
